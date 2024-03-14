@@ -1,0 +1,137 @@
+body {
+    background-color: #EAF6F6;;
+}
+
+.info-para {
+    margin: 50px 500px auto 150px;
+    line-height: 30px;
+}
+
+.YOLO_img {
+    position: absolute;
+    top: 100px;
+    right: 30px;
+    bottom: 100px;
+    height: 350px;
+    width: 300px;
+    margin-top: 250px;
+    margin-right: 120px;
+}
+
+.txt {
+    margin-left: 50px;
+}
+
+.title {
+    margin-top: 50px;
+    color: #66BFBF;
+    margin-left: 20px;
+}
+
+.abc {
+    margin-top: 50px;
+    font-size: 25px;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.link_txt {
+    margin-left: 150px;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+.demo_link {
+    margin-left: 490px;
+    margin-top: 70px;
+}
+
+a:hover {
+    color: grey;
+}
+
+.link_txt_1 {
+    margin-left: 130px;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+.demo_link_1 {
+    margin-left: 490px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.a {
+    margin-top: 80px;
+}
+
+.ab {
+    margin-top: 80px;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.btn {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    text-shadow: 0px 1px 3px #66BFBF;
+    -webkit-box-shadow: 0px 1px 3px #66BFBF;
+    -moz-box-shadow: 0px 1px 3px #66BFBF;
+    box-shadow: 0px 1px 3px #66BFBF;
+    font-family: Georgia;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+/* navigation bar */
+.navbar{
+    padding-bottom:0 0 4.5rem;
+
+}
+.navbar-brand{
+    font-family:"ubuntu";
+    font-size:2.5rem;
+    font-weight:bold;
+    padding-right:50rem; 
+
+}
+.navlink{
+    font-size:1.2rem;
+    font-family:"Montserrat-dark";
+    color: black;
+}
